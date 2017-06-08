@@ -18,13 +18,10 @@ import com.lzjstudio.smartweather.db.County;
 import com.lzjstudio.smartweather.db.Province;
 import com.lzjstudio.smartweather.util.HttpUtil;
 import com.lzjstudio.smartweather.util.Utility;
-
 import org.litepal.crud.DataSupport;
-
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-
 import okhttp3.Call;
 import okhttp3.Callback;
 import okhttp3.Response;
